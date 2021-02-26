@@ -16,6 +16,9 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](https://github.com/maxxng)]
 [[portfolio](team/maxxng.md)]
 
+* Role: Developer
+* Responsibilities: Integration / Code Quality / Testing
+
 ### Lee Han Bin
 
 <img src="images/habi39.png" width="200px">
@@ -23,8 +26,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[homepage](http://www.comp.nus.edu.sg/~habi39)]
 [[github](https://github.com/habi39)]
 [[portfolio](team/habi39.md)]
-
-* Role: Project Advisor
+* Role: Team Lead / Developer
+* Responsibilities: Integration / Testing
 
 ### Tay Kai Xiang
 
@@ -34,28 +37,9 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/kaixiangtay.md)]
 
 * Role: Developer
-* Responsibilities: Code quality
+* Responsibilities: Code Quality / Deliverables and Deadline / Scheduling and Tracking
 
-### Johnny Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/maxxng.md)]
-
-* Role: Developer
-* Responsibilities: Data
-
-### Jean Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/maxxng.md)]
-
-* Role: Developer
-* Responsibilities: Dev Ops + Threading
-
-### Chloe Lau
+### Lau Cheuk Ying
 
 <img src="images/mesyeux.png" width="200px">
 
@@ -63,4 +47,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/mesyeux.md)]
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilities: Documentation / Testing
+
+### Lim Junxue
+
+<img src="images/limjunxue.png" width="200px">
+
+[[github](http://github.com/LimJunxue)]
+[[portfolio](team/limjunxue.md)]
+
+* Role: Developer
+* Responsibilities: Testing / Code Quality
